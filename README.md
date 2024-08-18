@@ -5,7 +5,7 @@ Meet Muriuki Maina a self-taught Full-Stack Engineer from Nairobi, Kenya.
 - 👯 I’m looking to collaborate on _open-source_ projects that help vulnerable people in society or improve the well-being of people.
 - 💬 Ask me about _Javascript, Typescript, Python and Kotlin_ 😊
 - 📫 How to reach me: [Muriuki](https://www.linkedin.com/in/james-muriuki-857a241b8/)
-- 🧠  I'm learning GO, Kotlin and Android development.
+- 🧠  I'm learning GO and other Backend development tools.
 - ⚡ Fun fact: I can recite the alphabet backward faster than most people can say it forward. Pretty impressive, isn't it? 🚀
 
 ## 🧰 Languages and Tools:

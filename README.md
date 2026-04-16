@@ -1,20 +1,41 @@
-### Hi there I'm [Muriuki!](https://github.com/MURIUKI2092) 👋
+# Hi, I'm James Muriuki 👋
 
-Meet Muriuki Maina a self-taught Full-Stack Engineer from Nairobi, Kenya.
+**Senior Full-Stack Engineer** · Nairobi, Kenya
 
-- 👯 I’m looking to collaborate on _open-source_ projects that help vulnerable people in society or improve the well-being of people.
-- 💬 Ask me about _Javascript, Typescript, Python and Kotlin_ 😊
-- 📫 How to reach me: [Muriuki](https://www.linkedin.com/in/james-muriuki-857a241b8/)
-- 🧠  I'm learning GO and other Backend development tools.
-- ⚡ Fun fact: I can recite the alphabet backward faster than most people can say it forward. Pretty impressive, isn't it? 🚀
+---
 
-## 🧰 Languages and Tools:
+### About me
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+- Building resilient **microservices** with **Java · Spring Boot · Go Gin** — deployed to Kubernetes at scale
+- Passionate about open-source that creates real-world impact for vulnerable communities
+- Currently deepening expertise in **Go internals**, distributed systems design, and service mesh patterns
+- Ask me about _Java, Spring, Go, TypeScript, Python, Kotlin_
+- Fun fact: I can recite the alphabet backward faster than most people can say it forward 🚀
 
-![Kinara's github stats](https://github-readme-stats.vercel.app/api?username=MURIUKI2092&&hide=["contribs","issues"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURIUKI2092&theme=tokyonight)
+📫 [LinkedIn](https://www.linkedin.com/in/james-muriuki-857a241b8/)
+
+---
+
+### Core stack
+
+| Language / Tool | Speciality |
+|---|---|
+| **Java** | Spring Boot, Spring Cloud, Spring Security |
+| **Go** | Go Gin, stdlib HTTP, CLI tooling |
+| **TypeScript** | Node.js, React |
+| **Python** | FastAPI, scripting, automation |
+| **Kotlin** | Android, Ktor |
+| **Kubernetes** | Helm, ArgoCD, K8s ops |
+
+### Expertise areas
+
+- **Architecture** — Microservices & distributed systems
+- **Infrastructure** — Kubernetes, Docker, CI/CD pipelines
+- **APIs** — REST, gRPC, event-driven (Kafka / RabbitMQ)
+
+---
+
+### GitHub stats
+
+![Muriuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=MURIUKI2092&hide=issues,contribs&show_icons=true&title_color=1D9E75&icon_color=1D9E75&text_color=9f9f9f&bg_color=151515)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MURIUKI2092&theme=tokyonight)
